@@ -42,7 +42,7 @@ class Gfg:
 
         if escolha == 'nao':
             print("Obrigado senhor") 
-            self.Speak("Obrigado senhor")
+            self.falar("Obrigado senhor")
 
 if __name__ == '__main__':
     senhor = Gfg()
